@@ -1,0 +1,6 @@
+{
+  "host": "https://api.wfdev.io:8443",
+  "rootDir": "./devlink",
+  "siteId": "65b4282243ab4720da986f60",
+  "authToken": "5c7095313828d300185904d61ed1eca4bbe9adee71fda126737348f4007e8ecf"
+}
